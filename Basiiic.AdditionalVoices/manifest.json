@@ -1,0 +1,15 @@
+{
+  "Id": "Basiiic.AdditionalVoices",
+  "AssemblyPath": null,
+  "PackPath": "Basiiic.AdditionalVoices.pck",
+  "Dependencies": [
+    "RAYTRAC3R.ExtraVoiceMod"
+  ],
+  "Metadata": {
+    "Name": "Additional Voices",
+    "Author": "Basiiic",
+    "Version": "1.0.0",
+    "Description": "Adds more voices.",
+    "Homepage": "https://github.com/NotNite/manifestation"
+  }
+}
