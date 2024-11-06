@@ -21,4 +21,4 @@ Set the Voice Option in AlternateVoice's config to one of the names below for yo
 - Spamton
 
 **Misc**
-LTTP - TLOZ Link to the past text sound.
+- LTTP - TLOZ Link to the past text sound.
